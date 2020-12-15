@@ -19,6 +19,6 @@ $ docker pull mindspore/mindspore-cpu:1.0.1
 
 ## reference
 
-https://gitee.com/mindspore/mindspore
-https://www.mindspore.cn/
+- https://gitee.com/mindspore/mindspore
+- https://www.mindspore.cn/
 
